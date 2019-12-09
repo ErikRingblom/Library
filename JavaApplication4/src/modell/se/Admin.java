@@ -10,5 +10,7 @@ package modell.se;
  * @author Erik Ringblom
  */
 public class Admin {
+    private String name, PN, lastname, phone_number;
+    private int age;
     
 }
